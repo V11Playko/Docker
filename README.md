@@ -6,4 +6,4 @@ Vilariño.
 Encuentra más información en https://platzi.com, suscríbete al curso y aprende
 a usar Docker de manera profesional.
 
-EL repositorio principal de este curso esta en https://github.com/platzi/docker. Yo "Heinner Vega" le he cambiado algunas cosas a mi gusto por lo cual le hice un fork y cambie los nombres.
+EL repositorio principal de este curso esta en https://github.com/platzi/docker. Yo "Heinner Vega" le he cambiado algunas cosas a mi gusto por lo cual le hice un fork y cambie los nombres. Aunque el autor del proyecto claramente es "Guido Vilariño"
