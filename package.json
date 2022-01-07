@@ -1,24 +1,26 @@
 {
-  "name": "docker-testing",
-  "version": "0.0.1",
-  "description": "Simple node.js app for container linking testing",
+  "name": "docker-fundamentos",
+  "version": "1.0.0",
+  "description": "Ésta es una aplicación de ejemplo para el curso de Docker de Platzi por Guido Vilariño.",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "start": "node index.js",
-    "test": "mocha"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gvilarino/docker-testing.git"
+    "url": "git+https://github.com/V11Playko/docker-fundamentos.git"
   },
-  "author": "gvilarino",
+  "author": "Heinner Vega <heinnervega20@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gvilarino/docker-testing/issues"
+    "url": "https://github.com/V11Playko/docker-fundamentos/issues"
   },
-  "homepage": "https://github.com/gvilarino/docker-testing#readme",
+  "homepage": "https://github.com/V11Playko/docker-fundamentos#readme",
   "dependencies": {
-    "express": "4.16.4",
+    "express": "^4.17.2",
     "mongodb": "3.1.9"
   },
   "devDependencies": {
